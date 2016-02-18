@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Wanted!</string>
+    <string name="app_description">Your job info platform</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="jobs_fragment">Jobs Fragment</string>
+    <string name="people_fragment">People Fragment</string>
+
+    <!-- Menu titles -->
+    <string name="menu_resume_title">Resume</string>
+    <string name="menu_following_title">Following</string>
+    <string name="menu_follower_title">Follower</string>
+    <string name="menu_favorite_title">Favorite</string>
+    <string name="menu_log_out_title">Log Out</string>
+    <string name="menu_post_title">Posts</string>
+
+    <!--Job Page-->
+    <string name="company_google">Google</string>
+    <string name="company_facebook">Facebook</string>
+    <string name="company_oracle">Oracle</string>
+    <string name="company_microsoft">Microsoft</string>
+
+    <!--People Page-->
+    <string name="people_john">John</string>
+    <string name="people_tom">Tom</string>
+    <string name="people_mike">Mike</string>
+    <string name="school_john">Carnegie Mellon University</string>
+    <string name="school_tom">Pittsburgh University</string>
+    <string name="school_mike">Duke University</string>
+
+    <!--Detail Page-->
+    <string name="basic_info_title">Basic Information</string>
+    <string name="basic_info_name">NAME: </string>
+    <string name="basic_info_college">COLLEGE: </string>
+    <string name="basic_info_major">MAJOR: </string>
+    <string name="basic_info_company">COMPANY: </string>
+    <string name="basic_info_department">DEPART: </string>
+    <string name="contact_info_title">Contact Information</string>
+    <string name="contact_info_email">EMAIL: </string>
+    <string name="contact_info_phone">PHONE: </string>
+    <string name="other_info_title">Other Information</string>
+    <string name="company_info_title">Company Information</string>
+    <string name="company_info_name">COMPANY: </string>
+    <string name="company_info_location">LOCATION: </string>
+    <string name="company_info_desc">DESCRIPT: </string>
+    <string name="other_info_detail">Other information Other information Other information Other</string>
+
+    <!--Error Information-->
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="error_invalid_password">Length between 6 to 14</string>
+    <string name="error_incorrect_password">Email or password incorrect</string>
+    <string name="error_field_required">Required</string>
+    <string name="error_empty_input">Input should not be empty</string>
+
+    <!--Login Page-->
+    <string name="title_activity_login">Sign in</string>
+    <string name="create_account">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="action_sign_in">SIGN IN</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+
+    <!--Register Page-->
+    <string name="title_activity_register">Register</string>
+    <string name="already_registered">Already have an account? Sign in</string>
+    <string name="prompt_name">Name</string>
+    <string name="action_register">Register</string>
+    <string name="text_is_seeker">I am a seeker</string>
+    <string name="text_is_recruiter">I am a recuiter</string>
+
+    <!--Favorite Page-->
+    <string name="title_activity_favorite">Favorite Jobs</string>
+
+    <!--Profile Page-->
+    <string name="title_activity_profile">My profile</string>
+
+    <!--Chat Page-->
+    <string name="title_activity_chat">Chat Room</string>
+    <string name="send_btn_string">Send</string>
+
+    <!--Resume Page-->
+    <string name="title_activity_resume">Resume</string>
+    <string name="education_title">Education</string>
+    <string name="project_title">Project</string>
+    <string name="working_title">Working</string>
+    <string name="add_button">Add</string>
+    <string name="input_date">Input date</string>
+    <string name="input_description">Input</string>
+    <string name="start_date">Start date</string>
+    <string name="end_date">End date</string>
+    <string name="description">Description</string>
+
+    <!--Following Page-->
+    <string name="title_activity_following">Following</string>
+    <string-array name="names_following">
+        <item>Mike</item>
+        <item>John</item>
+        <item>Ann</item>
+        <item>Mary</item>
+    </string-array>
+
+    <!--Follower Page-->
+    <string name="title_activity_follower">Follower</string>
+    <string-array name="names_follower">
+        <item>Rose</item>
+        <item>Tom</item>
+        <item>Keith</item>
+        <item>Joan</item>
+    </string-array>
+
+    <!--Post Page-->
+    <string name="title_activity_post">My Posts</string>
+    <string name="no_profile_error">You have not set your personal information, please set it first!</string>
+
+    <!--Post Page-->
+    <string name="title_activity_add_post">Add Recruitment</string>
+    <string name="title_form_add_post">Recruitment Infomation</string>
+    <string name="add_post_title">TITLE: </string>
+    <string name="add_post_desc">DESCRIPT: </string>
+    <string name="add_post_major">SUIT MAJOR: </string>
+    <string name="add_post_submit">SUBMIT</string>
+    <string name="add_post_clear">CLEAR</string>
+    <string name="post_recruiter">RECRUITER: </string>
+
+    <!--Applicants Page-->
+    <string name="title_activity_applicants">Applicants</string>
+</resources>
